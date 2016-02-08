@@ -14,10 +14,10 @@
 ---
 ## Experience
 #### Freelance &emsp; <small>*Oct 2012 - Aug 2013*</small>
-`PHP`, `JavaScript`, `JQuery & CSS`, `Wordpress & Joomla`
+`PHP`, `JavaScript`, `JQuery`,  `CSS`, `Wordpress & Joomla`
 > •	Designed and built a dynamic map application using JavaScript, php and html
 > 
-> •	Built and lead the design of IH Cape Town’s website (http://www.ihcapetown.com) using Joomla.
+> •	Built and lead the design of IH Cape Town’s website (http://www.ihcapetown.com) using Joomla
 
 ---
 #### Website & Mobile developer at Nanoson &emsp; <small>*Sep 2013 - May 2014*</small>
@@ -28,12 +28,12 @@
 > 
 > •	Built a mobile stock taking tool for Corner Bakery used by all their branches
 > 
-> •	Built a cloud Brokerage adapter which allows users to buy Saas in an online market place, and via API calls to the specified vendors, the client purchases the software and is able to automatically log-in using Single-Sign-On
+> •	Built a cloud Brokerage adapter which allows users to buy Saas in an online market place.
 
 ---
-#### Full-stack, with a focus on front-end,web  developer at PBTit &emsp; <small>*June 2014 - current*</small>
-` javascript`, `CSS`, `html`, `ASP.NET`, `MSSQL`, `PHP`, `grunt`, `bower and node.js`
-> •	Responsible for the design of many projects within the company. Created styles sheets for all newly adopted clients/products.
+#### Full-stack, with a focus on front-end, web  developer at PBTit &emsp; <small>*June 2014 - current*</small>
+` javascript`, `CSS`, `html`, `ASP.NET`, `MSSQL`, `PHP`, `grunt`, `bower & node.js`
+> •	Responsible for the design of many projects within the company. Created styles sheets for all newly adopted clients/products
 > 
 > •	Partly responsible for the development, design and maintenance of a newly created web based product called Cubed, aimed to replace the legacy systems, used by our clients
 > 
